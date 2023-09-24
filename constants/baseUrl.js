@@ -1,0 +1,1 @@
+export const baseUrl = process.env.NEXT_APP_WORDPRESS_API_URL
